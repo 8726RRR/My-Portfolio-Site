@@ -63,7 +63,7 @@ $(function(){
   };
   
   // slider処理の実行
-  setInterval(slider, 3000);
+  setInterval(slider, 5000);
   
   // Topのテキストアニメーション
   const title1 = $('.first').text();
@@ -178,7 +178,7 @@ $(function(){
   };
   
   // fadein_fadeout関数の実行
-  setInterval(fadein_fadeout, 4000);
+  setInterval(fadein_fadeout, 5000);
   
   // Contactの入力、送信の設定
   // Messageクラスの作成
@@ -225,7 +225,6 @@ $(function(){
   
   // 送信ボタンを押したときの処理
   $('#btn').click((e) => {
-    e.preventDefault(); // 画面が更新されないようにする
     // メッセージをリセット
     $('.hw+p').remove();
     // 入力された値を取得

@@ -7,14 +7,9 @@
     $name = $_POST['name']; // 名前
     $email = $_POST['email']; // メールアドレス
     $comment = $_POST['comment']; // コメント
-    
-    // 時間軸の設定
-    date_default_timezone_set('Asia/Tokyo');
-    // 曜日の設定
-    $w = date("w");
-    $week_name = array("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat");
+
     // お問い合わせ日時の詳細設定
-    $date = date("Y/m/d " . "($week_name[$w])" . " H:i:s");
+    $date = date("Y/m/d H:i:s");
     
     //サイトを見てフォームを記入した人への自動返信メール
     $mailto = $email;
