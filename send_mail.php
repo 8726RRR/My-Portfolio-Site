@@ -44,7 +44,6 @@
     
     // 文字化け対策
     mb_language("Japanese");
-    mb_language("English");
     mb_internal_encoding("UTF-8");
     
     // メール送信
