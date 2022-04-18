@@ -534,6 +534,7 @@ form textarea {
 
 .error {
   color: red;
+  font-size: 18px;
   font-weight: bold; 
   list-style: none;
 }
@@ -542,6 +543,7 @@ form textarea {
 
 .send {
   color: green;
+  font-size: 18px;
   font-weight: bold; 
   list-style: none;
 }
