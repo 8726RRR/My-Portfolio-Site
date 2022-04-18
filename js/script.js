@@ -236,12 +236,15 @@ $(function(){
     const message = new Message(name, email, comment);
     // 入力値を検証(validateメソッドを実行)
     const flag = message.validate();
+    // Contentに表示されるエラー、送信完了メッセージを見やすくさせる
+    window.location.href = 'index.php#contact';
+    
     if(flag === true) {
-      
       // 入力値が正しかった時にconfirmを表示させる。
       const send_flag = confirm('本当に送信しますか');
       if(send_flag === true) {
         
+        // フォームで入力した値を取得
         $('input[name="name"]').val('');
         $('input[name="email"]').val('');
         $('textarea[name="comment"]').val('');
@@ -257,17 +260,13 @@ $(function(){
                comment: message.comment // コメント
            }
         }).done(function(data) { // ajax通信が成功したら
-          //送信に成功したならば
-          if (data['result']) {
-              // Contactページを表示
-              window.location.href = 'index.php#contact';
-              // 画面にメッセージを表示
+          // 送信に成功したならば
+          if (data['result']) { 
+              // 画面に送信完了メッセージを表示
               $('.hw').after($('<p>', {text: '送信を完了しました'}).addClass('send'));
           } else {
-              // メール送信に「失敗」した時の処理
-              // Contactページを表示
-              window.location.href = 'index.php#contact';
-              // 画面にメッセージを表示
+              // 送信に失敗したならば
+              // 画面にエラーメッセージを表示
               $('.hw').after($('<p>', {text: '送信に失敗しました'}).addClass('error'));
           }
         });
