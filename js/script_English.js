@@ -196,7 +196,7 @@ $(function(){
     validate() {
       // 入力が正しいかどうかのフラッグ
       let flag = true;
-      $('li').remove();
+      $('#message li').remove();
       const ul = $('<ul>');
       // もし名前が入力されていなければ
       if(this.name === '') {

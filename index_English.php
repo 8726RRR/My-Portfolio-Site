@@ -230,14 +230,20 @@
                                     1999.4~<br>
                                     Elementary school days
                                 </td>
-                                <td>I learned folk songs under the influence of my grandmother. Loved Pokemon.</td>
+                                <td>I learned folk songs under the influence of my grandmother. <br>
+                                    I loved Pokemon.
+                                </td>
                             </tr>
                             <tr>
                                 <td>
                                     2005.4~<br>
                                     Junior high school days
                                 </td>
-                                <td>I started choral singing when my voice changed.</td>
+                                <td>
+                                    I got into choral singing when I changed my voice from boy soprano to bass.<br>
+                                    I became interested in law through the game Ace Attorney.<br>
+                                    I visited a law firm and observed a criminal trial as part of my school work experience.
+                                </td>
                             </tr>
                             <tr class="table-success">
                                 <td>
