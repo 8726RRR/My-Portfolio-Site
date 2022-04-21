@@ -106,8 +106,8 @@
                 
                 <div id="mask" class="hidden"></div>
                 <div id="modal" class="hidden">
-                    <div id="close_2">Close</div>
-                    <table class="table table-bordered table-striped mt-3">
+                    <p>Portfolio List</p>
+                    <table class="table table-bordered table-striped mt-4">
                         <tr>
                             <th>Title</th>
                             <th>Source code</th>
@@ -133,7 +133,13 @@
                             <td><a href="https://github.com/kazuma9976/PHP_users.git">GitHub</a></td>
                             <td><a href="https://samurai-php-users.herokuapp.com/">Heroku</a></td>
                         </tr>
+                        <tr>
+                            <td>New Submission Application (Laravel, PHP, MySQL)</td>
+                            <td><a href="https://github.com/kazuma9976/bbs_Laravel.git">GitHub</a></td>
+                            <td><a href="https://samurai-bbs-laravel.herokuapp.com/">Heroku</a></td>
+                        </tr>
                     </table>
+                    <div id="close_2">Close</div>
                 </div>
             </div>
             
@@ -161,18 +167,23 @@
                                 <td class="star">★★</td>
                             </tr>
                             <tr>
-                                <td>PHP</td>
+                                <td>Bootstrap</td>
                                 <td>2 months</td>
                                 <td class="star">★★</td>
                             </tr>
                             <tr class="table-success">
-                                <td>MySQL</td>
-                                <td>2 month</td>
+                                <td>PHP</td>
+                                <td>2 months</td>
                                 <td class="star">★★</td>
                             </tr>
                             <tr>
-                                <td>Bootstrap</td>
-                                <td>2 month</td>
+                                <td>MySQL</td>
+                                <td>2 months</td>
+                                <td class="star">★★</td>
+                            </tr>
+                            <tr class="table-success">
+                                <td>Laravel</td>
+                                <td>1 month</td>
                                 <td class="star">★★</td>
                             </tr>
                         </table>

@@ -105,8 +105,8 @@
                 
                 <div id="mask" class="hidden"></div>
                 <div id="modal" class="hidden">
-                    <div id="close_2">閉じる</div>
-                    <table class="table table-bordered table-striped mt-3">
+                    <p>ポートフォリオ一覧</p>
+                    <table class="table table-bordered table-striped mt-4">
                         <tr>
                             <th>タイトル</th>
                             <th>ソースコード</th>
@@ -132,7 +132,13 @@
                             <td><a href="https://github.com/kazuma9976/PHP_users.git">GitHub</a></td>
                             <td><a href="https://samurai-php-users.herokuapp.com/">Heroku</a></td>
                         </tr>
+                        <tr>
+                            <td>新規投稿アプリ(Laravel, PHP, MySQL)</td>
+                            <td><a href="https://github.com/kazuma9976/bbs_Laravel.git">GitHub</a></td>
+                            <td><a href="https://samurai-bbs-laravel.herokuapp.com/">Heroku</a></td>
+                        </tr>
                     </table>
+                    <div id="close_2">閉じる</div>
                 </div>
             </div>
             
@@ -160,18 +166,23 @@
                                 <td class="star">★★</td>
                             </tr>
                             <tr>
-                                <td>PHP</td>
+                                <td>Bootstrap</td>
                                 <td>2か月</td>
                                 <td class="star">★★</td>
                             </tr>
                             <tr class="table-success">
-                                <td>MySQL</td>
+                                <td>PHP</td>
                                 <td>2か月</td>
                                 <td class="star">★★</td>
                             </tr>
                             <tr>
-                                <td>Bootstrap</td>
+                                <td>MySQL</td>
                                 <td>2か月</td>
+                                <td class="star">★★</td>
+                            </tr>
+                            <tr class="table-success">
+                                <td>Laravel</td>
+                                <td>1か月</td>
                                 <td class="star">★★</td>
                             </tr>
                         </table>
