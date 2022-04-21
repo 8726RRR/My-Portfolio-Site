@@ -105,7 +105,7 @@
                 
                 <div id="mask" class="hidden"></div>
                 <div id="modal" class="hidden">
-                    <p>ポートフォリオ一覧</p>
+                    <div id="details">ポートフォリオ一覧</div>
                     <table class="table table-bordered table-striped mt-4">
                         <tr>
                             <th>タイトル</th>

@@ -106,7 +106,7 @@
                 
                 <div id="mask" class="hidden"></div>
                 <div id="modal" class="hidden">
-                    <p>Portfolio List</p>
+                    <div id="details">Portfolio List</div>
                     <table class="table table-bordered table-striped mt-4">
                         <tr>
                             <th>Title</th>
