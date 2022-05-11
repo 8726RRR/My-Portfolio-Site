@@ -420,7 +420,7 @@ a .box:hover {
   width: 100px;
   padding: 10px 10px;
   border: 2px solid #005500;
-  margin: 40px auto 0;
+  margin: 0 auto 30px;
   border-radius: 4px;
 }
 

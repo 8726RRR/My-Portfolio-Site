@@ -106,6 +106,7 @@
                 
                 <div id="mask" class="hidden"></div>
                 <div id="modal" class="hidden">
+                    <div id="close_2">Close</div>
                     <div id="details">Portfolio List</div>
                     <table class="table table-bordered table-striped mt-4">
                         <tr>
@@ -138,8 +139,12 @@
                             <td><a href="https://github.com/kazuma9976/bbs_Laravel.git">GitHub</a></td>
                             <td><a href="https://samurai-bbs-laravel.herokuapp.com/">Heroku</a></td>
                         </tr>
+                        <tr>
+                            <td>Instagram-like application(Laravel, PHP, MySQL)</td>
+                            <td><a href="https://github.com/kazuma9976/Instagram-clone.git">GitHub</a></td>
+                            <td><a href="https://samurai-laravel-instagram.herokuapp.com/">Heroku</a></td>
+                        </tr>
                     </table>
-                    <div id="close_2">Close</div>
                 </div>
             </div>
             
