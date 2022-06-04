@@ -137,12 +137,7 @@
                         <tr>
                             <td>New Submission Application (Laravel, PHP, MySQL)</td>
                             <td><a href="https://github.com/kazuma9976/bbs_Laravel.git">GitHub</a></td>
-                            <td><a href="https://samurai-bbs-laravel.herokuapp.com/">Heroku</a></td>
-                        </tr>
-                        <tr>
-                            <td>Instagram-like application(Laravel, PHP, MySQL)</td>
-                            <td><a href="https://github.com/kazuma9976/Instagram-clone.git">GitHub</a></td>
-                            <td><a href="https://samurai-laravel-instagram.herokuapp.com/">Heroku</a></td>
+                            <td><a href="https://bbs-laravel-again.herokuapp.com/">Heroku</a></td>
                         </tr>
                     </table>
                 </div>
@@ -163,32 +158,32 @@
                             </tr>
                             <tr>
                                 <td>HTML/CSS</td>
+                                <td>6 months</td>
+                                <td class="star">★★★★</td>
+                            </tr>
+                            <tr class="table-success">
+                                <td>Javascript/jQuery</td>
+                                <td>5 months</td>
+                                <td class="star">★★★</td>
+                            </tr>
+                            <tr>
+                                <td>Bootstrap</td>
                                 <td>4 months</td>
                                 <td class="star">★★★</td>
                             </tr>
                             <tr class="table-success">
-                                <td>Javascript/jQuery</td>
-                                <td>3 months</td>
-                                <td class="star">★★</td>
-                            </tr>
-                            <tr>
-                                <td>Bootstrap</td>
-                                <td>2 months</td>
-                                <td class="star">★★</td>
-                            </tr>
-                            <tr class="table-success">
                                 <td>PHP</td>
-                                <td>2 months</td>
-                                <td class="star">★★</td>
+                                <td>4 months</td>
+                                <td class="star">★★★</td>
                             </tr>
                             <tr>
                                 <td>MySQL</td>
-                                <td>2 months</td>
-                                <td class="star">★★</td>
+                                <td>4 months</td>
+                                <td class="star">★★★</td>
                             </tr>
                             <tr class="table-success">
                                 <td>Laravel</td>
-                                <td>1 month</td>
+                                <td>2 month</td>
                                 <td class="star">★★</td>
                             </tr>
                         </table>
