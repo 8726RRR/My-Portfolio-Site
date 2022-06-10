@@ -94,7 +94,7 @@
                 <a href="https://github.com/kazuma9976"><div class="box"></div></a>
             </div>
             
-            <!--ポートフォリオサイトについて-->
+            <!--ポートフォリオについて-->
             <div id="works" class="content">
                 <div class="h">My portfolio</div>
                 <p>侍エンジニア塾の受講期間中に作成した成果物たちです !!</p>
@@ -111,7 +111,7 @@
                         <tr>
                             <th>タイトル</th>
                             <th>ソースコード</th>
-                            <th>Webに公開したもの</th>
+                            <th>Web上に公開したもの</th>
                         </tr>
                         <tr>
                             <td>タイピングゲーム(Javascript)</td>
@@ -138,6 +138,16 @@
                             <td><a href="https://github.com/kazuma9976/bbs_Laravel.git">GitHub</a></td>
                             <td><a href="https://bbs-laravel-again.herokuapp.com/">Heroku</a></td>
                         </tr>
+                        <tr>
+                            <td>Instagram Clone(Laravel, PHP, MySQL)</td>
+                            <td><a href="https://github.com/kazuma9976/laravel-instagram.git">GitHub</a></td>
+                            <td><a href="https://larabel-instagram-again.herokuapp.com/">Heroku</a></td>
+                        </tr>
+                        <tr>
+                            <td>精神障害者向け相談記録アプリ(Laravel, PHP, MySQL)</td>
+                            <td><a href="https://github.com/kazuma9976/new_case_work.git">GitHub</a></td>
+                            <td><a href="http://case-work.net/">EC2</a></td>
+                        </tr>
                     </table>
                 </div>
             </div>
@@ -151,38 +161,78 @@
                         <p>スキル一覧</p>
                         <table class="table table-bordered">
                             <tr class="table-success">
-                                <th>プログラミング</th>
+                                <th>内容</th>
                                 <th>使用歴</th>
                                 <th>技術レベル</th>
                             </tr>
                             <tr>
-                                <td>HTML/CSS</td>
+                                <td>HTML5 / CSS3</td>
                                 <td>6か月</td>
                                 <td class="star">★★★</td>
                             </tr>
                             <tr class="table-success">
-                                <td>Javascript/jQuery</td>
+                                <td>Javascript / jQuery 3.3.1</td>
                                 <td>5か月</td>
                                 <td class="star">★★★</td>
                             </tr>
                             <tr>
-                                <td>Bootstrap</td>
+                                <td>Bootstrap 4.3.1</td>
                                 <td>4か月</td>
                                 <td class="star">★★★</td>
                             </tr>
                             <tr class="table-success">
-                                <td>PHP</td>
+                                <td>PHP 7.2.34</td>
                                 <td>4か月</td>
                                 <td class="star">★★★</td>
                             </tr>
                             <tr>
-                                <td>MySQL</td>
+                                <td>MySQL 5.5.62</td>
                                 <td>4か月</td>
                                 <td class="star">★★★</td>
                             </tr>
                             <tr class="table-success">
-                                <td>Laravel</td>
+                                <td>Laravel 5.8.38</td>
                                 <td>2か月</td>
+                                <td class="star">★★★</td>
+                            </tr>
+                            <tr>
+                                <td>PHPUnit</td>
+                                <td>1か月</td>
+                                <td class="star">★★</td>
+                            </tr>
+                            <tr class="table-success">
+                                <td>Git / GitHub</td>
+                                <td>5か月</td>
+                                <td class="star">★★★</td>
+                            </tr>
+                            <tr>
+                                <td>AWS / S3</td>
+                                <td>3か月</td>
+                                <td class="star">★★★</td>
+                            </tr>
+                            <tr class="table-success">
+                                <td>Heroku</td>
+                                <td>3か月</td>
+                                <td class="star">★★★</td>
+                            </tr>
+                            <tr>
+                                <td>EC2</td>
+                                <td>1か月</td>
+                                <td class="star">★★</td>
+                            </tr>
+                            <tr class="table-success">
+                                <td>CircleCI</td>
+                                <td>1か月</td>
+                                <td class="star">★★</td>
+                            </tr>
+                            <tr>
+                                <td>AWS / Elastic IP</td>
+                                <td>1か月</td>
+                                <td class="star">★★</td>
+                            </tr>
+                            <tr class="table-success">
+                                <td>AWS / Route53</td>
+                                <td>1か月</td>
                                 <td class="star">★★</td>
                             </tr>
                         </table>
@@ -221,7 +271,7 @@
             
             <!--プロフィールについて-->
             <div id="profile" class="content">
-                <div class="h">My Profile</div>
+                <div class="h">My profile</div>
                 <img src="images/road.jpg" alt="道の画像" class="road">
                 <div class="container mb-3 col-sm-9">
                     <div class="row">

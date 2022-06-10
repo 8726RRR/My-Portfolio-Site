@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Kazuma Iwai</title>
+    <title>Kazuma Iwai's portfolio site</title>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
      rel="stylesheet">
     <link rel="icon" href="images/favicon_smile.png">
@@ -23,7 +23,7 @@
                 <li><a href="#me">About me</a></li>
                 <li><a href="#works">My portfolio</a></li>
                 <li><a href="#skill">My programming skills</a></li>
-                <li><a href="#profile">My Profile</a></li>
+                <li><a href="#profile">My profile</a></li>
                 <li><a href="#hobby">My hobby</a></li>
                 <li><a href="#contact">Contact</a></li>
                 <li><a href="index.php">Japanese</a></li>
@@ -40,13 +40,13 @@
                 </ul>
             </li>
             <li>
-                <a href="#works">My Portfolio</a>
+                <a href="#works">My portfolio</a>
                 <ul>
                     <li><a href="#skill">My programming skills</a></li>
                 </ul>
             </li>
             <li>
-                <a href="#profile">My Profile</a>
+                <a href="#profile">My profile</a>
                 <ul>
                     <li><a href="#hobby">My hobby</a></li>
                 </ul>
@@ -107,12 +107,12 @@
                 <div id="mask" class="hidden"></div>
                 <div id="modal" class="hidden">
                     <div id="close_2">Close</div>
-                    <div id="details">Portfolio List</div>
+                    <div id="details">Portfolio list</div>
                     <table class="table table-bordered table-striped mt-4">
                         <tr>
                             <th>Title</th>
                             <th>Source code</th>
-                            <th>Published on the Web</th>
+                            <th>Published on the web</th>
                         </tr>
                         <tr>
                             <td>Typing game (Javascript)</td>
@@ -120,7 +120,7 @@
                             <td><a href="https://kazuma9976.github.io/Typing-Game/">GitHub Pages</a></td>
                         </tr>
                         <tr>
-                            <td>DOM Manipulation (jQuery)</td>
+                            <td>DOM manipulation (jQuery)</td>
                             <td><a href="https://github.com/kazuma9976/jQuery_Practice-DOM-manipulation.git">GitHub</a></td>
                             <td><a href="https://kazuma9976.github.io/jQuery_Practice-DOM-manipulation/">GitHub Pages</a></td>
                         </tr>
@@ -135,9 +135,19 @@
                             <td><a href="https://samurai-php-users.herokuapp.com/">Heroku</a></td>
                         </tr>
                         <tr>
-                            <td>New Submission Application (Laravel, PHP, MySQL)</td>
+                            <td>New submission application (Laravel, PHP, MySQL)</td>
                             <td><a href="https://github.com/kazuma9976/bbs_Laravel.git">GitHub</a></td>
                             <td><a href="https://bbs-laravel-again.herokuapp.com/">Heroku</a></td>
+                        </tr>
+                        <tr>
+                            <td>Instagram clone(Laravel, PHP, MySQL)</td>
+                            <td><a href="https://github.com/kazuma9976/laravel-instagram.git">GitHub</a></td>
+                            <td><a href="https://larabel-instagram-again.herokuapp.com/">Heroku</a></td>
+                        </tr>
+                        <tr>
+                            <td>Consultation record app for the mentally disabled(Laravel, PHP, MySQL)</td>
+                            <td><a href="https://github.com/kazuma9976/new_case_work.git">GitHub</a></td>
+                            <td><a href="http://case-work.net/">EC2</a></td>
                         </tr>
                     </table>
                 </div>
@@ -149,41 +159,81 @@
                 <img src="images/skill.jpg" alt="Images of Skills" class="tech">
                 <div class="container mb-3 col-sm-8">
                     <div class="row mt-3 mb-3">
-                        <p>Skill List</p>
+                        <p>Skill list</p>
                         <table class="table table-bordered">
                             <tr class="table-success">
-                                <th>Programming Language</th>
+                                <th>Contents</th>
                                 <th>History of use</th>
                                 <th>Technical level</th>
                             </tr>
                             <tr>
-                                <td>HTML/CSS</td>
+                                <td>HTML5 / CSS3</td>
                                 <td>6 months</td>
-                                <td class="star">★★★★</td>
+                                <td class="star">★★★</td>
                             </tr>
                             <tr class="table-success">
-                                <td>Javascript/jQuery</td>
+                                <td>Javascript / jQuery 3.3.1</td>
                                 <td>5 months</td>
                                 <td class="star">★★★</td>
                             </tr>
                             <tr>
-                                <td>Bootstrap</td>
+                                <td>Bootstrap 4.3.1</td>
                                 <td>4 months</td>
                                 <td class="star">★★★</td>
                             </tr>
                             <tr class="table-success">
-                                <td>PHP</td>
+                                <td>PHP 7.2.34</td>
                                 <td>4 months</td>
                                 <td class="star">★★★</td>
                             </tr>
                             <tr>
-                                <td>MySQL</td>
+                                <td>MySQL 5.5.62</td>
                                 <td>4 months</td>
                                 <td class="star">★★★</td>
                             </tr>
                             <tr class="table-success">
-                                <td>Laravel</td>
-                                <td>2 month</td>
+                                <td>Laravel 5.8.38</td>
+                                <td>2 months</td>
+                                <td class="star">★★★</td>
+                            </tr>
+                            <tr>
+                                <td>PHPUnit</td>
+                                <td>1 month</td>
+                                <td class="star">★★</td>
+                            </tr>
+                            <tr class="table-success">
+                                <td>Git / GitHub</td>
+                                <td>5 months</td>
+                                <td class="star">★★★</td>
+                            </tr>
+                            <tr>
+                                <td>AWS / S3</td>
+                                <td>3 months</td>
+                                <td class="star">★★★</td>
+                            </tr>
+                            <tr class="table-success">
+                                <td>Heroku</td>
+                                <td>3 months</td>
+                                <td class="star">★★★</td>
+                            </tr>
+                            <tr>
+                                <td>EC2</td>
+                                <td>1 month</td>
+                                <td class="star">★★</td>
+                            </tr>
+                            <tr class="table-success">
+                                <td>CircleCI</td>
+                                <td>1 month</td>
+                                <td class="star">★★</td>
+                            </tr>
+                            <tr>
+                                <td>AWS / Elastic IP</td>
+                                <td>1 month</td>
+                                <td class="star">★★</td>
+                            </tr>
+                            <tr class="table-success">
+                                <td>AWS / Route53</td>
+                                <td>1 month</td>
                                 <td class="star">★★</td>
                             </tr>
                         </table>
@@ -222,7 +272,7 @@
             
             <!--My profile-->
             <div id="profile" class="content">
-                <div class="h">My Profile</div>
+                <div class="h">My profile</div>
                 <img src="images/road.jpg" alt="Images of the Road" class="road">
                 <div class="container mb-3 col-sm-9">
                     <div class="row">
