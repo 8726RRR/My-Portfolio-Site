@@ -140,9 +140,9 @@
                             <td><a href="https://bbs-laravel-again.herokuapp.com/">Heroku</a></td>
                         </tr>
                         <tr>
-                            <td>Instagram clone(Laravel, PHP, MySQL)</td>
+                            <td>Laravel instagram(Laravel, PHP, MySQL)</td>
                             <td><a href="https://github.com/kazuma9976/laravel-instagram.git">GitHub</a></td>
-                            <td><a href="https://larabel-instagram-again.herokuapp.com/">Heroku</a></td>
+                            <td><a href="http://ec2-35-78-81-161.ap-northeast-1.compute.amazonaws.com/">EC2</a></td>
                         </tr>
                         <tr>
                             <td>Consultation record app for the mentally disabled(Laravel, PHP, MySQL)</td>
