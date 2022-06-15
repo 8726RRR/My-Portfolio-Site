@@ -134,7 +134,7 @@
                             <td><a href="https://samurai-php-users.herokuapp.com/">Heroku</a></td>
                         </tr>
                         <tr>
-                            <td>新規投稿アプリ(Laravel, PHP, MySQL)</td>
+                            <td>簡易投稿掲示板アプリ(Laravel, PHP, MySQL)</td>
                             <td><a href="https://github.com/kazuma9976/bbs_Laravel.git">GitHub</a></td>
                             <td><a href="https://bbs-laravel-again.herokuapp.com/">Heroku</a></td>
                         </tr>
@@ -218,12 +218,12 @@
                             <tr>
                                 <td>EC2</td>
                                 <td>1か月</td>
-                                <td class="star">★★</td>
+                                <td class="star">★★★</td>
                             </tr>
                             <tr class="table-success">
                                 <td>CircleCI</td>
                                 <td>1か月</td>
-                                <td class="star">★★</td>
+                                <td class="star">★★★</td>
                             </tr>
                             <tr>
                                 <td>AWS / Elastic IP</td>
