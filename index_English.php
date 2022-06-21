@@ -90,7 +90,7 @@
                 <p>I retired at the end of August 2021 and moved to Fukuoka Prefecture at the end of November after getting married.</p>
                 <p>During my previous work experience, I became interested in promoting digitalization.</p>
                 <p>I wanted to change my career to become a web engineer.</p>
-                <p>I began attending the Samurai Engineer School in December 2021.</p><br>
+                <p>I began attending SAMURAI ENGINEER in December 2021.</p><br>
                 <p id="git">Click here for my GitHub URL↓↓</p>
                 <a href="https://github.com/kazuma9976"><div class="box"></div></a>
             </div>
@@ -98,7 +98,7 @@
             <!--My portfolio-->
             <div id="works" class="content">
                 <div class="h">My portfolio</div>
-                <p>These are the products created during the course of the Samurai Engineer School !!</p>
+                <p>These products were developed during the SAMURAI ENGINEER course !!</p>
                 <p>Click here↓↓</p>
                 <div id="open_2">
                     <img class="object" src="images/work.jpg" alt="Images of productions">
@@ -362,8 +362,12 @@
                                 </td>
                             </tr>
                             <tr class="table-success">
-                                <td>2021.12~</td>
-                                <td>I started attending the Samurai Engineer School.</td>
+                                <td>2021.12</td>
+                                <td>I started attending SAMURAI ENGINEER.</td>
+                            </tr>
+                            <tr>
+                                <td>2022.6</td>
+                                <td>I graduated from SAMURAI ENGINEER.</td>
                             </tr>
                         </table>
                     </div>

@@ -89,7 +89,7 @@
                 <p>2021年8月末に退職し、結婚を機に11月末に福岡県へ移住。</p>
                 <p>前職を経験する中で、DX化の推進に興味を持つ。</p>
                 <p>Webエンジニアへの転職を志す。</p>
-                <p>2021年12月より侍エンジニア塾を受講開始。</p><br>
+                <p>2021年12月よりSAMURAI ENGINEERを受講開始。</p><br>
                 <p id="git">GitHubのURLはこちらをクリック↓↓</p>
                 <a href="https://github.com/kazuma9976"><div class="box"></div></a>
             </div>
@@ -97,7 +97,7 @@
             <!--ポートフォリオについて-->
             <div id="works" class="content">
                 <div class="h">My portfolio</div>
-                <p>侍エンジニア塾の受講期間中に作成した成果物たちです !!</p>
+                <p>SAMURAI ENGINEERの受講期間中に作成した成果物たちです !!</p>
                 <p>こちらをクリック↓↓</p>
                 <div id="open_2">
                     <img class="object" src="images/work.jpg" alt="制作物の画像">
@@ -361,8 +361,12 @@
                                 </td>
                             </tr>
                             <tr class="table-success">
-                                <td>2021.12~</td>
-                                <td>侍エンジニア塾を受講開始。</td>
+                                <td>2021.12</td>
+                                <td>SAMURAI ENGINEERを受講開始。</td>
+                            </tr>
+                            <tr>
+                                <td>2022.6</td>
+                                <td>SAMURAI ENGINEERを卒業。</td>
                             </tr>
                         </table>
                     </div>
