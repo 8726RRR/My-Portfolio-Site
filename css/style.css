@@ -13,6 +13,7 @@ body {
 
 
 /*------------------- スマホ版でのメニュー表示 ----------------*/
+
 @media(max-width:500px) {
   .pc-gnav{
     display: none;
@@ -112,6 +113,7 @@ body {
 }
 
 /* --------------PC版画面でのメニュー表示 ------------*/
+
 @media (min-width:501px){
   .m-menu{
     display: none;
@@ -383,10 +385,10 @@ a .box:hover {
 #modal {
   background: #fff;
   width: 90%;
-  padding: 30px 30px;
+  padding: 20px 20px;
   border-radius: 10px;
   position: fixed;
-  top: 60px;
+  top: 10px;
   left: 0;
   right: 0;
   margin: 0 auto;
@@ -431,6 +433,7 @@ a .box:hover {
 
 
 /*--------------------　自分のスキルについて　---------------------*/
+
 #skill {
   margin-bottom: 120px;
 }
@@ -458,6 +461,7 @@ a .box:hover {
 }
 
 /*--------------------　プロフィールについて　---------------------*/
+
 #profile {
   margin-bottom: 120px;
 }
@@ -471,6 +475,7 @@ a .box:hover {
 }
 
 /*--------------------　趣味について　---------------------*/
+
 #hobby {
   margin-bottom: 120px;
 }
@@ -485,6 +490,7 @@ a .box:hover {
 }
 
 /*--------------------　連絡先について　---------------------*/
+
 .hw {
   font-weight: bold;
   font-size: large;
@@ -557,6 +563,7 @@ form textarea {
 
 
 /*------------------ クリックしたら Top画面に戻る部分---------------------*/
+
 #back {
   line-height: 80px;
   background: #99CC00;
@@ -583,6 +590,7 @@ form textarea {
 }
 
 /*------------------ footer ---------------------*/
+
 footer {
     clear: both;
     padding: 6px 0;
