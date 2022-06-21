@@ -391,7 +391,7 @@ a .box:hover {
   padding: 20px 20px;
   border-radius: 10px;
   position: fixed;
-  top: 10px;
+  top: 0;
   left: 0;
   right: 0;
   margin: 0 auto;
