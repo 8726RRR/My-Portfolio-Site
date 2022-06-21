@@ -184,6 +184,7 @@ body {
 }
 
 /*---------- Top画面のスライドアニメーション -----------*/
+
 div #wrapper {
   text-align: center;
   width: 500px;
@@ -260,6 +261,7 @@ div #slider {
 }
 
 /*--------------------  このサイトについて  ---------------------*/
+
 #site {
   margin-top: 10px;
   margin-bottom: 100px;
@@ -282,6 +284,7 @@ div #slider {
 
 
 /*--------------------　自分について　---------------------*/
+
 #me {
   margin-bottom: 100px;
 }
