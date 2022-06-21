@@ -102,11 +102,9 @@
                 <div id="open_2">
                     <img class="object" src="images/work.jpg" alt="制作物の画像">
                 </div>
-                
                 <div id="mask" class="hidden"></div>
                 <div id="modal" class="hidden">
                     <div id="close_2">閉じる</div>
-                    <div id="details">ポートフォリオ一覧</div>
                     <table class="table table-bordered table-striped mt-4">
                         <tr>
                             <th>タイトル</th>

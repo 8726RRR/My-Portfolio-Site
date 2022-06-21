@@ -387,11 +387,10 @@ a .box:hover {
 
 #modal {
   background: #fff;
-  width: 90%;
-  padding: 20px 20px;
-  border-radius: 10px;
+  width: 100%;
+  padding: 30px 30px;
   position: fixed;
-  top: 10px;
+  top: 0;
   left: 0;
   right: 0;
   margin: 0 auto;
@@ -401,12 +400,6 @@ a .box:hover {
 
 #modal.hidden {
   transform: translate(0, -1000px);
-}
-
-#details {
-  font-weight: bold;
-  font-size: 18px;
-  color: #007700;
 }
 
 #modal a {
@@ -433,7 +426,6 @@ a .box:hover {
   color: #fff;
   background: #007700;
 }
-
 
 /*--------------------　自分のスキルについて　---------------------*/
 
