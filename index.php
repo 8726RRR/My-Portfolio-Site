@@ -89,7 +89,9 @@
                 <p>2021年8月末に退職し、結婚を機に11月末に福岡県へ移住。</p>
                 <p>前職を経験する中で、DX化の推進に興味を持つ。</p>
                 <p>Webエンジニアへの転職を志す。</p>
-                <p>2021年12月よりSAMURAI ENGINEERを受講開始。</p><br>
+                <p>2021年12月よりSAMURAI ENGINEERを受講開始。</p>
+                <p>2022年6月にSAMURAI ENGINEERを卒業。</p>
+                <p>現在転職活動中。</p><br>
                 <p id="git">GitHubのURLはこちらをクリック↓↓</p>
                 <a href="https://github.com/kazuma9976"><div class="box"></div></a>
             </div>

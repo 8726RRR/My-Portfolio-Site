@@ -90,7 +90,9 @@
                 <p>I retired at the end of August 2021 and moved to Fukuoka Prefecture at the end of November after getting married.</p>
                 <p>During my previous work experience, I became interested in promoting digitalization.</p>
                 <p>I wanted to change my career to become a web engineer.</p>
-                <p>I began attending SAMURAI ENGINEER in December 2021.</p><br>
+                <p>I began attending SAMURAI ENGINEER in December 2021.</p>
+                <p>I graduated from SAMURAI ENGINEER in June 2022.</p>
+                <p>I am currently looking for a new job.</p><br>
                 <p id="git">Click here for my GitHub URL↓↓</p>
                 <a href="https://github.com/kazuma9976"><div class="box"></div></a>
             </div>
