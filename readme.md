@@ -37,7 +37,7 @@
 改善点などがありましたら、以下のメールアドレスにご連絡いただけると幸いです。
 
 ##### ◆メールアドレス:
-samurai.portfolio@gmail.com
+happyday.kazuma@outlook.jp
 
 ## 著者
 2022/06/15 Kazuma Iwai
