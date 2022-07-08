@@ -13,8 +13,8 @@
     
     //サイトを見てフォームを記入した人への自動返信メール
     $mailto = $email;
-    $to = 'happyday.kazuma@outlook.jp'; 
-    $mailfrom = 'From:happyday.kazuma@outlook.jp'; 
+    $to = 'samuraikazuma1@gmail.com'; 
+    $mailfrom = 'From:samuraikazuma1@gmail.com'; 
     $subject = "入力フォームの送信が完了いたしました";
     
     // 代入演算子、改行文字を使って自動メールのフォーマットを作成
