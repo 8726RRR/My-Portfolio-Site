@@ -121,7 +121,7 @@
                         <tr>
                             <td>DOM操作(jQuery)</td>
                             <td><a href="https://github.com/kazuma9976/jQuery_Practice-DOM-manipulation.git">GitHub</a></td>
-                            <td><a href="https://kazuma9976.github.io/jQuery_Practice-DOM-manipulation/">GitHub Pages</a></td>
+                            <td><a href="https://kazuma9976.github.io/jQuery-DOM-manipulation/">GitHub Pages</a></td>
                         </tr>
                         <tr>
                             <td>アニメーション(jQuery)</td>
@@ -131,22 +131,22 @@
                         <tr>
                             <td>簡易ユーザー登録アプリ(PHP, MySQL)</td>
                             <td><a href="https://github.com/kazuma9976/PHP_users.git">GitHub</a></td>
-                            <td><a href="https://samurai-php-users.herokuapp.com/">Heroku</a></td>
+                            <td><a href="https://happy-php-users.herokuapp.com/">Heroku</a></td>
                         </tr>
                         <tr>
                             <td>簡易投稿掲示板アプリ(Laravel, PHP, MySQL)</td>
                             <td><a href="https://github.com/kazuma9976/bbs_Laravel.git">GitHub</a></td>
-                            <td><a href="https://bbs-laravel-again.herokuapp.com/">Heroku</a></td>
+                            <td><a href="https://happy-bbs-laravel.herokuapp.com/">Heroku</a></td>
                         </tr>
                         <tr>
                             <td>Laravel instagram(Laravel, PHP, MySQL)</td>
                             <td><a href="https://github.com/kazuma9976/laravel-instagram.git">GitHub</a></td>
-                            <td><a href="http://ec2-35-78-81-161.ap-northeast-1.compute.amazonaws.com/">EC2</a></td>
+                            <td><a href="http://ec2-18-181-186-113.ap-northeast-1.compute.amazonaws.com/">EC2</a></td>
                         </tr>
                         <tr>
                             <td>精神障害者向け相談記録アプリ(Laravel, PHP, MySQL)</td>
                             <td><a href="https://github.com/kazuma9976/new_case_work.git">GitHub</a></td>
-                            <td><a href="http://case-work.net/">EC2</a></td>
+                            <td><a href="http://ec2-35-78-129-29.ap-northeast-1.compute.amazonaws.com/">EC2</a></td>
                         </tr>
                     </table>
                 </div>

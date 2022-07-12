@@ -123,7 +123,7 @@
                         <tr>
                             <td>DOM manipulation (jQuery)</td>
                             <td><a href="https://github.com/kazuma9976/jQuery_Practice-DOM-manipulation.git">GitHub</a></td>
-                            <td><a href="https://kazuma9976.github.io/jQuery_Practice-DOM-manipulation/">GitHub Pages</a></td>
+                            <td><a href="https://kazuma9976.github.io/jQuery-DOM-manipulation/">GitHub Pages</a></td>
                         </tr>
                         <tr>
                             <td>Animation (jQuery)</td>
@@ -133,22 +133,22 @@
                         <tr>
                             <td>Simple user registration application (PHP, MySQL)</td>
                             <td><a href="https://github.com/kazuma9976/PHP_users.git">GitHub</a></td>
-                            <td><a href="https://samurai-php-users.herokuapp.com/">Heroku</a></td>
+                            <td><a href="https://happy-php-users.herokuapp.com/">Heroku</a></td>
                         </tr>
                         <tr>
                             <td>Simple posting bulletin board application (Laravel, PHP, MySQL)</td>
                             <td><a href="https://github.com/kazuma9976/bbs_Laravel.git">GitHub</a></td>
-                            <td><a href="https://bbs-laravel-again.herokuapp.com/">Heroku</a></td>
+                            <td><a href="https://happy-bbs-laravel.herokuapp.com/">Heroku</a></td>
                         </tr>
                         <tr>
                             <td>Laravel instagram(Laravel, PHP, MySQL)</td>
                             <td><a href="https://github.com/kazuma9976/laravel-instagram.git">GitHub</a></td>
-                            <td><a href="http://ec2-35-78-81-161.ap-northeast-1.compute.amazonaws.com/">EC2</a></td>
+                            <td><a href="http://ec2-18-181-186-113.ap-northeast-1.compute.amazonaws.com/">EC2</a></td>
                         </tr>
                         <tr>
                             <td>Consultation record app for the mentally disabled(Laravel, PHP, MySQL)</td>
                             <td><a href="https://github.com/kazuma9976/new_case_work.git">GitHub</a></td>
-                            <td><a href="http://case-work.net/">EC2</a></td>
+                            <td><a href="http://ec2-35-78-129-29.ap-northeast-1.compute.amazonaws.com/">EC2</a></td>
                         </tr>
                     </table>
                 </div>
