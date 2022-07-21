@@ -141,7 +141,7 @@
                         <tr>
                             <td>Laravel instagram(Laravel, PHP, MySQL)</td>
                             <td><a href="https://github.com/kazuma9976/laravel-instagram.git">GitHub</a></td>
-                            <td><a href="http://laravel-instagram.net/">EC2</a></td>
+                            <td><a href="http://ec2-3-112-56-17.ap-northeast-1.compute.amazonaws.com/">EC2</a></td>
                         </tr>
                         <tr>
                             <td>精神障害者向け相談記録アプリ(Laravel, PHP, MySQL)</td>
