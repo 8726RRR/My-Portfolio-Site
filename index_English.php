@@ -138,7 +138,7 @@
                         <tr>
                             <td>Simple posting bulletin board application (Laravel, PHP, MySQL)</td>
                             <td><a href="https://github.com/kazuma9976/bbs_Laravel.git">GitHub</a></td>
-                            <td><a href="https://happy-bbs-laravel.herokuapp.com/">Heroku</a></td>
+                            <td><a href="https://new-bbs-laravel.herokuapp.com/">Heroku</a></td>
                         </tr>
                         <tr>
                             <td>Laravel instagram(Laravel, PHP, MySQL)</td>
