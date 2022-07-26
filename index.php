@@ -135,13 +135,13 @@
                         </tr>
                         <tr>
                             <td>簡易投稿掲示板アプリ(Laravel, PHP, MySQL)</td>
-                            <td><a href="https://github.com/kazuma9976/bbs_Laravel.git">GitHub</a></td>
-                            <td><a href="https://new-bbs-laravel.herokuapp.com/">Heroku</a></td>
+                            <td><a href="https://github.com/kazuma9976/bbs_laravel.git">GitHub</a></td>
+                            <td><a href="https://bbs-laravel-memo.herokuapp.com/">Heroku</a></td>
                         </tr>
                         <tr>
                             <td>Laravel instagram(Laravel, PHP, MySQL)</td>
-                            <td><a href="https://github.com/kazuma9976/laravel-instagram.git">GitHub</a></td>
-                            <td><a href="http://ec2-3-112-56-17.ap-northeast-1.compute.amazonaws.com/">EC2</a></td>
+                            <td><a href="https://github.com/kazuma9976/happy-laravel-instagram.git">GitHub</a></td>
+                            <td><a href="https://instagram-note.herokuapp.com/">Heroku</a></td>
                         </tr>
                         <tr>
                             <td>精神障害者向け相談記録アプリ(Laravel, PHP, MySQL)</td>
