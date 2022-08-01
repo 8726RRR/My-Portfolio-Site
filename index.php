@@ -146,7 +146,7 @@
                         <tr>
                             <td>精神障害者向け相談記録アプリ(Laravel, PHP, MySQL)</td>
                             <td><a href="https://github.com/kazuma9976/happy-case-work.git">GitHub</a></td>
-                            <td><a href="http://ec2-3-112-222-191.ap-northeast-1.compute.amazonaws.com/">EC2</a></td>
+                            <td><a href="http://happy-case-work.site/">EC2</a></td>
                         </tr>
                     </table>
                 </div>
